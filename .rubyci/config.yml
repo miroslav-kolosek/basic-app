@@ -2,7 +2,7 @@ version: 1
 
 build_packs:
   rails: {}
-  ruby_version:
+  ruby:
     version: 2.7.6
   node_js:
     version: 18.17.1
